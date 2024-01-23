@@ -63,4 +63,43 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 ## License
 
+https://www.youtube.com/watch?v=Wn3IPX_ax-0&t=502s
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+💻 Code: https://github.com/thecodeholic/larav...
+⭐️ Contents ⭐️
+⌨️ (0:00:00) Intro
+⌨️ (0:00:29) Demo
+⌨️ (0:08:13) Project Setup
+⌨️ (0:14:21) Install Laravel Breeze
+⌨️ (0:17:49) Email Verification
+⌨️ (0:22:15) DB Overview, Models & Migrations
+⌨️ (0:35:56) Explore Intertia Folder Structure
+⌨️ (0:37:49) Authentication Layout
+⌨️ (1:18:08) Define Main Routes
+⌨️ (1:24:16) Create Root Folder On User Registration
+⌨️ (1:30:34) Creating Folder
+⌨️ (2:06:53) Save Folder Path
+⌨️ (2:11:46) Show Files into table
+⌨️ (2:26:07) Navigate into Second Level of Folders
+⌨️ (2:34:18) Create Folders Inside Subfolder
+⌨️ (2:37:01) Implement Breadcrumbs
+⌨️ (2:46:44) Uploading Files
+⌨️ (4:08:30) Show Human Readable File size
+⌨️ (4:16:00) Show File Icons
+⌨️ (4:27:56) Show File Progress
+⌨️ (4:34:54) Display Error When File Already Exists
+⌨️ (4:47:49) Implement Load More
+⌨️ (5:11:42) Increase max_file_uploads
+⌨️ (5:21:20) Deleting Files
+⌨️ (6:23:48) Implement Downloading Files
+⌨️ (7:04:32) Show Success Notifications
+⌨️ (7:15:36) Implement Trash
+⌨️ (8:00:03) Implement Favorites
+⌨️ (9:18:23) Sharing Files to Others
+⌨️ (10:05:16) Implement Shared With Me Page
+⌨️ (10:26:49) Implement Shared By Me Page
+⌨️ (10:50:23) Searching for Files
+⌨️ (11:15:42) Connect to AWS S3
+⌨️ (12:15:42) Download Files from S3
+⌨️ (12:45:19) Project Deployment & Bug Fixing
+⌨️ (13:40:18) Outro
